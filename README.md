@@ -1,4 +1,4 @@
-# Hire Sentiment [Demo](https://www.youtube.com/watch?v=CKlaSQfaLH4&t=10s)
+# Hire Sentiment [Demo](https://youtu.be/xCxb8Y0kUjs)
 
 A modern job recruitment platform that connects recruiters with job seekers, featuring sentiment analysis for better matching.
 
@@ -387,3 +387,4 @@ CREATE TABLE applications (
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
+
